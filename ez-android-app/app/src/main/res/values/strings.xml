@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">EZ Health </string>
+    <string name="temperature">Temperature </string>
+    <string name="heart">Heart Beat</string>
+    <string name="ecg">ECG</string>
+    <string name="saturation">Oxy Saturation</string>
+    <string name="respiration">respiration</string>
+    <string name="bp">BP</string>
+    <string name="what_s_on_your_mind">Enter your query</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="stressmanagement1">•Take a deep breath</string>
+    <string name="stressmanagement2">•Hear some music</string>
+    <string name="stressmanagement3">•Play some games</string>
+    <string name="stressmanagement4">•Do some meditation</string>
+    <string name="stressmanagement5">•Walk for the lunch</string>
+    <string name="stressmanagement6">•Do some laughing activity</string>
+    <string name="stress_management_tips">Stress Management Tips</string>
+</resources>
